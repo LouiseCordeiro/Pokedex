@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pokedex</string>
+    <string name="error_message">Something went wrong\nPlease, check your network connection and try reopen the app</string>
+    <string name="try_again">Try again</string>
+    <string name="load_error_message">Something went wrong\nTry again</string>
+</resources>
