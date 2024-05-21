@@ -1,4 +1,6 @@
 Simple app created to study
+
+Listing API Pokemons app using:
 * Retrofit e API REST
 * Flow
 * MVVM e Clean Arch
