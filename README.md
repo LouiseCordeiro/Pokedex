@@ -8,4 +8,4 @@ Listing API Pokemons app using:
 * Paging
 * Coil
 
-![image](https://github.com/LouiseCordeiro/Pokedex/assets/106567020/fab8952b-019b-4a65-87ad-d1adcfa11595)
+![taskapp (1)](https://github.com/LouiseCordeiro/Pokedex/assets/106567020/14b651a3-eea5-4853-a0f8-2e346ece92e2)
