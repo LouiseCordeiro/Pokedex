@@ -1,6 +1,6 @@
 Simple app created to study
 
-Listing API Pokemons app using:
+Listing API Pokemons app using:  
 * Retrofit e API REST
 * Flow
 * MVVM e Clean Arch
@@ -8,4 +8,5 @@ Listing API Pokemons app using:
 * Paging
 * Coil
 
-![taskapp (1)](https://github.com/LouiseCordeiro/Pokedex/assets/106567020/14b651a3-eea5-4853-a0f8-2e346ece92e2)
+![1715910398629](https://github.com/LouiseCordeiro/Pokedex/assets/106567020/0127e77e-b76d-4dfe-a391-8c5d7ed1e526)
+
