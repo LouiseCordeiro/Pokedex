@@ -44,9 +44,9 @@ class PokedexPagingSource(
                 nextKey = if (position == LAST_POSITION) null else position + 1
             )
         } catch (exception: IOException) {
-            return LoadResult.Error(exception)
+            throw RuntimeException(exception)
         } catch (exception: HttpException) {
-            return LoadResult.Error(exception)
+            throw RuntimeException(exception)
         }
     }
 }

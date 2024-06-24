@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002085385833",
+    "project_id": "pokedex-312cd",
+    "storage_bucket": "pokedex-312cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002085385833:android:cec7b4b7b20c5edd0704f8",
+        "android_client_info": {
+          "package_name": "com.example.pokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCueNb9_-cDvqWoiM7nLzd87Xo3z8uaN-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
